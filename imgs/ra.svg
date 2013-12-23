@@ -1,34 +1,6 @@
-<!DOCTYPE html>
-<html lang="fr">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-    <title>CARA - Le Club Agile Rhône Alpes</title>
-
-    <link href="css/bootstrap.css" rel="stylesheet">
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-  </head>
-
-  <body>
-
-    <div class="jumbotron">
-      <div class="container">
-        <h1><img src="imgs/cara.png" alt="CARA"/>CARA : Clubs Agile Rhône-Alpes</h1>
-        <p>Le CARA est un ensemble d'associations de la région Rhône-Alpes ayant pour but la promouvotion et la diffusion des méthodes agiles.</p>
-      </div>
-    </div>
-
-    <div class="container">
-        <div class="col-md-4">
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -269,13 +241,3 @@
      style="display:inline"
      transform="translate(0,-1472.0374)" />
 </svg>
-        </div>
-        <div class="col-md-8" id="caption">
-        </div>
-    </div>
-
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/main.js"></script>
-  </body>
-</html>
